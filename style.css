@@ -45,4 +45,8 @@ h1, h2 {
     background-image: url("../img/plus.png");
 }
 
+input:invalid {
+    background-color: red;
+}
+
 
